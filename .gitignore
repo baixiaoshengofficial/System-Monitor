@@ -1,0 +1,14 @@
+.venv/
+.arduino/
+.tools/
+.agents/
+agent/windows/build/
+agent/windows/dist/
+agent/windows/__pycache__/
+agent/windows/*.log
+agent/windows/config.json
+repo.zip
+upstream/
+*.pyc
+*.pyo
+*.tmp
