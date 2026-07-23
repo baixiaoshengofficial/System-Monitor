@@ -1,0 +1,4 @@
+pyserial>=3.5
+psutil>=5.9
+pythonnet>=3.0
+pyinstaller>=6.0
