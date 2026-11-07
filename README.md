@@ -83,5 +83,5 @@ agent\windows\dist\SystemMonitorAgent.exe --background
 ```
 
 ## Sponsors
-Sponsored by [ForZTN](https://sponsorship.forztn.com/github.com/System-Monitor).
+Sponsored by [ForZTN](https://sponsorship.forztn.com/github.com/baixiaoshengofficial/System-Monitor).
 
