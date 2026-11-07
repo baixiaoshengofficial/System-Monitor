@@ -1,9 +1,6 @@
 # Windows USB System Monitor
 
-## Sponsors
-Sponsored by [ForZTN](https://sponsorship.forztn.com/github.com/*).
 
-This project is split into:
 
 - `firmware/BluetoothSystemMonitor`: ESP32 + ILI9488 TFT firmware.
 - `agent/windows`: Windows-only agent that sends metrics to the ESP32 over USB serial every second.
@@ -83,3 +80,8 @@ The legacy background mode still works, but it does not show the tray icon:
 ```powershell
 agent\windows\dist\SystemMonitorAgent.exe --background
 ```
+
+## Sponsors
+Sponsored by [ForZTN](https://sponsorship.forztn.com/github.com/*).
+
+This project is split into:
