@@ -1,5 +1,8 @@
 # Windows USB System Monitor
 
+## Sponsors
+Sponsored by [ForZTN](https://sponsorship.forztn.com/github.com/*).
+
 This project is split into:
 
 - `firmware/BluetoothSystemMonitor`: ESP32 + ILI9488 TFT firmware.
